@@ -20,7 +20,13 @@
 }
 
 .container {
+    margin: 40px 7px 2px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+.button {
+    width: 25%;
+    height: 70px;
 }
