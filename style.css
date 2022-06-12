@@ -18,3 +18,8 @@
     border-radius: 7px;
 
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+}
