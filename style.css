@@ -4,7 +4,7 @@
 
 .calculator {
     border: 2px solid black;
-    height: 500px;
+    height: 450px;
     width: 400px;
     background-color: orangered;
     margin: 50px auto;
@@ -20,13 +20,15 @@
 }
 
 .container {
-    margin: 40px 7px 2px;
+    margin: 35px 7px 2px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 .button {
+    font-size: 30px;
+    font-weight: 800;
     width: 25%;
     height: 70px;
 }
