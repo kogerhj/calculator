@@ -20,15 +20,18 @@
 }
 
 .container {
+    flex: 0 1 auto;
     margin: 35px 7px 2px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-}
+    row-gap: 7px;
+    justify-content: space-evenly;
+} 
 
 .button {
     font-size: 30px;
     font-weight: 800;
-    width: 25%;
-    height: 70px;
+    width: 80px; 
+    height: 75px; 
 }
