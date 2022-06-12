@@ -26,12 +26,12 @@
     justify-content: center;
     flex-wrap: wrap;
     row-gap: 7px;
-    justify-content: space-evenly;
+    justify-content: space-between;
 } 
 
 .button {
     font-size: 30px;
     font-weight: 800;
-    width: 80px; 
+    width: 90px; 
     height: 75px; 
 }
