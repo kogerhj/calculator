@@ -1,7 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
 .calculator {
-    border: 3px solid black;
+    border: 2px solid black;
     height: 500px;
     width: 400px;
     background-color: orangered;
     margin: 50px auto;
+    border-radius: 8px;
+}
+
+.display {
+    height: 5em;
+    background-color: azure;
+    margin: 7px;
+    border-radius: 7px;
+
 }
